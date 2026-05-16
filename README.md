@@ -64,7 +64,9 @@ It's Pokémon GO, but for people who want to learn things. And also for people w
 
 Our first guide is Napoleon Bonaparte — theatrical, historically grounded, and absolutely convinced he's the most important person in any room (or street corner).
 
-<video src="./Napoleon.mp4" controls width="100%"></video>
+<video controls width="100%">
+  <source src="Napoleon.mp4" type="video/mp4">
+</video>
 
 Powered by the **Claude API** with a locked character prompt, he:
 
