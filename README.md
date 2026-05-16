@@ -6,6 +6,10 @@
 
 ---
 
+![WanderGo Vision Board](./Idea.jpg)
+
+---
+
 ## 🎯 What Even Is This?
 
 You're in Paris. You have Google Maps. You're geographically fine.
@@ -59,6 +63,8 @@ It's Pokémon GO, but for people who want to learn things. And also for people w
 ## 🎭 Meet Napoleon
 
 Our first guide is Napoleon Bonaparte — theatrical, historically grounded, and absolutely convinced he's the most important person in any room (or street corner).
+
+<video src="./Napoleon.mp4" controls width="100%"></video>
 
 Powered by the **Claude API** with a locked character prompt, he:
 
